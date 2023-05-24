@@ -1,0 +1,5 @@
+# Ignore Python compiled bytecode files
+__pycache__/
+
+# Ignore JetBrains IDE-specific files
+.idea/
